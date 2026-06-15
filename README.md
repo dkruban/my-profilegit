@@ -1,40 +1,44 @@
-flowchart TD
-    %% Style Definitions
-    classDef container fill:#050508,stroke:#00f3ff,stroke-width:2px,color:#fff,rx:10,ry:10,filter:drop-shadow(0px 0px 10px #00f3ff);
-    classDef title fill:none,stroke:none,color:#fff,font-size:20px,font-weight:bold;
-    classDef subtitle fill:none,stroke:none,color:#00f3ff,font-size:14px;
-    classDef statBox fill:#1a1a2e,stroke:#ff00ff,stroke-width:1px,color:#fff,rx:5;
-    classDef statBar fill:#ff00ff,stroke:none;
-    classDef badge fill:#bc13fe,stroke:#fff,stroke-width:1px,color:#fff,rx:15,font-size:12px;
-    classDef launch fill:none,stroke:#0aff0a,stroke-width:2px,color:#0aff0a,rx:20,stroke-dasharray: 5 5,font-weight:bold;
+👨‍💻 About Me
+{  "name": "Ruban.M",  "role": "AI Prompter & Automation Specialist",  "location": "India",  "focus": [    "Prompt Engineering",    "AI/ML Workflows",    "Creative Automation"  ],  "tech_stack": [    "Python",    "JavaScript",    "OpenAI API",    "Claude API",    "Automation Tools"  ],  "status": "Building AI-powered solutions that solve real-world problems."}
+📊 GitHub Stats
+<div align="center">
+<!-- Main Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=dkruban&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="45%" />
 
-    %% Main Card Node
-    Card[<table border='0'>
-        <tr><td colspan='2'><b>RUBAN.M</b><br/><span style='color:#00f3ff'>▸ AI PROMPTER ◂</span></td></tr>
-        <tr><td colspan='2' style='padding: 10px; border-radius: 50%; border: 2px dashed #00f3ff; display:inline-block; text-align:center; width:80px; height:80px;'>R.M</td></tr>
-        
-        <tr><td align='left'><b>Prompt Eng</b></td><td align='right'>92%</td></tr>
-        <tr><td colspan='2'><hr style='background:#00f3ff; height:4px; border:none; width:92%'/></td></tr>
-        
-        <tr><td align='left'><b>AI/ML</b></td><td align='right'>87%</td></tr>
-        <tr><td colspan='2'><hr style='background:#ff00ff; height:4px; border:none; width:87%'/></td></tr>
-        
-        <tr><td align='left'><b>Creative</b></td><td align='right'>79%</td></tr>
-        <tr><td colspan='2'><hr style='background:#bd00ff; height:4px; border:none; width:79%'/></td></tr>
-        
-        <tr><td align='left'><b>Auto</b></td><td align='right'>95%</td></tr>
-        <tr><td colspan='2'><hr style='background:#0aff0a; height:4px; border:none; width:95%'/></td></tr>
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkruban&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="45%" />
 
-        <tr><td colspan='2' style='padding-top:15px'>
-            <span style='background:rgba(0,243,255,0.1); border:1px solid #00f3ff; padding:2px 8px; border-radius:10px; margin:2px; font-size:10px'>Claude</span>
-            <span style='background:rgba(255,0,255,0.1); border:1px solid #ff00ff; padding:2px 8px; border-radius:10px; margin:2px; font-size:10px'>GPT-4</span>
-            <span style='background:rgba(255,0,255,0.1); border:1px solid #ff00ff; padding:2px 8px; border-radius:10px; margin:2px; font-size:10px'>Gemini</span>
-        </td></tr>
-        
-        <tr><td colspan='2' style='padding-top:10px; border: 1px solid #0aff0a; border-radius: 15px; color:#0aff0a; font-weight:bold'>LAUNCH ↗</td></tr>
-    </table>]:::container
+<!-- Streak Stats (The calendar-like graph) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dkruban&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
-    %% Animated Connecting Lines (The "Pulse" Effect)
-    %% Note: Mermaid animations are simple. We simulate complexity with styles.
-    
-    linkStyle 0 stroke:#00f3ff,stroke-width:4px,opacity:0.5
+<!-- Contribution Activity Graph (The line chart) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dkruban&theme=radical&bg_color=0D1117&color=2AF598&line=2AF598&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+</div>
+
+🚀 Most Popular Repositories
+<div align="center">
+
+Repository Name
+Description
+Stars
+Tech Stack
+AI-Prompt-Toolkit	A collection of advanced prompt templates for LLMs.	Stars	Python, OpenAI
+Auto-GPT-Agent	Autonomous agent that automates daily tasks using AI.	Stars	JavaScript, Node.js
+Creative-Tech-Bot	A bot that generates creative content on demand.	Stars	Python, Discord.py
+
+</div>
+
+🤝 Let's Connect!
+"Great prompts are crafted with logic and creativity."
+
+<div align="center">
+<p>I love connecting with fellow AI enthusiasts and developers. Open for Collaborations & Opportunities!</p>
+
+<!-- Show some love -->
+<img src="https://komarev.com/ghpvc/?username=dkruban&style=for-the-badge&color=2AF598" alt="Profile Views"/>
+
+<p>Show some ❤️ by starring some of the repositories!</p>
+
+<p align="center">Made with ❤️ by <a href="https://github.com/dkruban">Ruban.M</a></p>
+</div>
+```
