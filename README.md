@@ -387,18 +387,6 @@ svg.profile{width:400px;height:400px}
 
 <!-- HOW TO SET THIS -->
 <div class="info-box" style="margin-top:14px">
-  <h3>// HOW_TO_ADD.MD</h3>
-  <div class="code-block">
-    <span class="c-purple">1.</span> Go to your GitHub profile → <span class="c-cyan">Create repo</span> named <span class="c-green">your-username</span><br>
-    <span class="c-purple">2.</span> Add a <span class="c-cyan">README.md</span> file to the repo<br>
-    <span class="c-purple">3.</span> Save this SVG as <span class="c-green">profile.svg</span><br>
-    <span class="c-purple">4.</span> Upload SVG to the repo (or use GitHub Actions)<br>
-    <span class="c-purple">5.</span> In README.md add:<br>
-    <span class="c-pink">&lt;img src="profile.svg" width="400"/&gt;</span><br>
-    <br>
-    <span class="c-purple">TIP:</span> GitHub renders SVG animations <span class="c-green">natively ✓</span><br>
-    <span class="c-purple">NOTE:</span> CSS animations need <span class="c-cyan">SMIL</span> (which this uses)<br>
-    <span class="c-purple">TOOL:</span> Use <span class="c-pink">github-readme-stats</span> to add live stats
   </div>
 </div>
 </body>
